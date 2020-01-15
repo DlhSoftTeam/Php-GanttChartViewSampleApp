@@ -1,2 +1,2 @@
 # Php-GanttChartViewSampleApp
-PHP sample for GanttChartView component of Gantt Chart Hyper Library for JavaScript
+PHP sample for GanttChartView component from Gantt Chart Hyper Library for JavaScript
